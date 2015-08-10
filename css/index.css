@@ -59,7 +59,6 @@ body {
     position: relative;
     top: 20%;
     margin: 0 auto 0;
-    max-width: 950px;
     z-index: 3;
 }
 
@@ -108,14 +107,21 @@ body {
 }
 
 .main section.page1 .btn-booking {
+    border-radius: 4px;
     text-align: center;
     background-color: #24bf08;
     color: #ffffff;
-    width: 200px;
-    height: 35px;
+    width: 286px;
+    height: 70px;
+    line-height: 70px;
+    padding: 0;
+    font-size: 24px;
+    text-transform: none;
 }
 
 .main section.page1 h5 {
+    line-height: 1.5em;
+    font-size: 22px;
     text-align: center;
     padding: 0;
     color: #ffffff;

@@ -7816,8 +7816,8 @@ legend {
 
 @media(max-width: 1199px) {
     .navbar .navbar-brand {
-        height:50px;
-        padding: 10px 15px
+        height:90px;
+        line-height: 90px;
     }
 
     .navbar .navbar-form {
@@ -7825,8 +7825,8 @@ legend {
     }
 
     .navbar .navbar-nav>li>a {
-        padding-top: 15px;
-        padding-bottom: 15px
+        padding-top: 25px;
+        padding-bottom: 25px
     }
 }
 
