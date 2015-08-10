@@ -1,0 +1,151 @@
+.font_style{
+	display:inline-block;
+	font-size: 20px;
+	width: 120px;
+	font-weight: 500;
+	color: #747474;
+	position: absolute;
+}
+.font_style01{
+	left: 50%;
+	margin-left: -60px;
+}
+.font_style02{
+	left: 100%;
+	width: 80px;
+	margin-left: -80px;
+}
+.oh_style{
+	font-weight: 700;
+	color: #32C2DC;
+	display: block;
+	margin-top: 10px;
+}
+.use_style{
+	height: 70px;
+	line-height: 60px;
+	font-weight: 400;
+	width: 450px;
+	display: inline-block;
+	font-size: 24px;
+	color: #747474;
+}
+.lan_style{
+	width: 33.3%;
+	height: 30%;
+	float: left;
+}
+.btn-color{
+	background-color: #32C2DC!important;
+}
+.lan_style_01{
+	background-color: #6BAE73;
+}
+.lan_style_02{
+	background-color: #6F7CC9;
+}
+.lan_style_03{
+	background-color: #D56381;
+}
+.lan_style_04{
+	background-color: #5D6B79;
+}
+.lan_style_05{
+	background-color: #FFFFFF;
+}
+.lan_style_06{
+	background-color: #73C7AB;
+}
+.lan_style_07{
+	background-color: #2995C4;
+}
+.lan_style_08{
+	background-color: #EB6F5E;
+}
+.lan_style_09{
+	background-color: #F1C44A;
+}
+.lan_style_content{
+	color: #FFFFFF;
+	width: 65%;
+	height: 44%;
+	text-align: center;
+	margin:5px auto;
+}
+.lan_style_content_05{
+	color: #596668;
+	font-weight: 700;
+	font-size: 30px;
+	display: block;
+	margin-top: 12%;
+}
+.lan_style_content_02{
+	width:147px;
+	height: 40%;
+	text-align: center;
+	border-radius: 5px 5px 5px 5px;
+	border:2px solid #32C2DC;
+	color: #32C2DC;
+	font-size: 25px;
+	padding-top: 3px;
+	margin: 0 auto;
+}
+.fonts-color h5{
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 24px;
+}
+.btn-rese{
+	width: 179px;
+	height: 50px;
+	background-color: #32C2DC;
+	border:0 solid;
+	color: #FFFFFF;
+	border-radius: 3px 3px 3px 3px;
+	margin-top: 90px;
+}
+.word-styl a{
+	text-align: center;
+	display: block;
+}
+.btn01{
+	border-radius: 2px;
+	display: block;
+	padding: 0 15px!important;
+	background-color: #32c2dc;
+	margin-top: 25px!important;
+}
+.btn01:hover{
+	color: #ffffff !important;
+	background-color: #2db3cb !important;
+}
+.btn0:visited{
+	color: #fff !important;
+	background-color: #2db3cb !important;
+}
+.dao-top{
+	position: absolute;
+	right: 117px;
+	bottom: 94px;
+	cursor: pointer;
+}
+.ge-xian{
+	margin-top: 10px!important;
+	margin-bottom: 20px!important;
+	width: 30px;
+
+}
+@media screen and (min-width:1212px){
+	.xian-01{
+		padding-bottom:4%!important;
+	}
+	.xian-left{
+		border-left:2px solid #C3C3C3;
+	}
+	.xian-02{
+		border-top:2px solid #C3C3C3;
+	}
+	.xian-03{
+		border-top:2px solid #C3C3C3;border-left:2px solid #C3C3C3;
+	}
+}

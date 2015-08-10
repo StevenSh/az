@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#canvas{
+	width: 100%;
+}
+.wrap{
+	position: relative;
+	width: 100%;
+	list-style: none;
+	display: block;
+	overflow: hidden;
+}
+.touch-item{
+	display: block;
+	width: 100%;
+
+}
+.touch-item-01{
+	background-color: red;
+}
+.touch-item-02{
+	background-color: #c3c3c3;
+}
+.touch-item-03{
+	background-color: yellow;
+}
+.touch-item-04{
+	background-color: #00ff00;
+}
+.touch-item-05{
+	background-color: green;
+}
