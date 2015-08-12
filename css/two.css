@@ -1,7 +1,7 @@
 .font_style{
 	display:inline-block;
-	font-size: 20px;
-	width: 120px;
+	font-size: 24px;
+	width: 150px;
 	font-weight: 500;
 	color: #747474;
 	position: absolute;
@@ -12,7 +12,7 @@
 }
 .font_style02{
 	left: 100%;
-	width: 80px;
+	width: 130px;
 	margin-left: -80px;
 }
 .oh_style{
